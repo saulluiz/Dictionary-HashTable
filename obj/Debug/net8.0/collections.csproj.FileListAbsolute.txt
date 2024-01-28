@@ -1,0 +1,14 @@
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\collections\bin\Debug\net8.0\collections.exe
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\collections\bin\Debug\net8.0\collections.deps.json
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\collections\bin\Debug\net8.0\collections.runtimeconfig.json
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\collections\bin\Debug\net8.0\collections.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\collections\bin\Debug\net8.0\collections.pdb
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\collections\obj\Debug\net8.0\collections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\collections\obj\Debug\net8.0\collections.AssemblyInfoInputs.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\collections\obj\Debug\net8.0\collections.AssemblyInfo.cs
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\collections\obj\Debug\net8.0\collections.csproj.CoreCompileInputs.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\collections\obj\Debug\net8.0\collections.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\collections\obj\Debug\net8.0\refint\collections.dll
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\collections\obj\Debug\net8.0\collections.pdb
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\collections\obj\Debug\net8.0\collections.genruntimeconfig.cache
+C:\Users\saulo\OneDrive\Área de Trabalho\DEV\C#\collections\obj\Debug\net8.0\ref\collections.dll
