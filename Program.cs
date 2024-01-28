@@ -5,6 +5,7 @@ using System.Collections.Generic;
 
 public class Collections
 {
+    
     static int mapFunction(string value)
     {
         int index = 0;
